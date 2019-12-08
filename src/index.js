@@ -13,8 +13,8 @@ import EventsIndex from "./components/events_index";
 import EventsNew from "./components/events_new";
 import EventsShow from "./components/events_show";
 import * as serviceWorker from "./serviceWorker";
-import { format } from "path";
-import { form, from } from "rxjs";
+// import { format } from "path";
+// import { form, from } from "rxjs";
 
 const enhancer =
   process.env.NODE_ENV === "development"

@@ -4,7 +4,7 @@ import { Field, reduxForm } from "redux-form";
 import { Link } from "react-router-dom";
 
 import { getEvent, deleteEvent, putEvent } from "../actions";
-import { id } from "postcss-selector-parser";
+// import { id } from "postcss-selector-parser";
 
 import RaisedButton from "material-ui/RaisedButton";
 import TextField from "material-ui/TextField";
